@@ -104,7 +104,3 @@ Algunas mejoras futuras podrían incluir:
 - integración con bases de datos
 - ejecución automática mediante tareas programadas
 - dashboard interactivo de ventas
-
-## Autor
-
-Ramón Alvarado
